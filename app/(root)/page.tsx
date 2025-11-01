@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Data from "../components/data";
 
 export default function Home() {
   return (
